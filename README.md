@@ -4,7 +4,10 @@ This comprehensive Hospital Management System is designed to efficiently manage 
 
 
 ## Screenshots
+### Working of System
 <img src="https://github.com/user-attachments/assets/3ad2e6de-3493-4d37-892f-5943e4a39bb7" width="700" />
+
+### SQL Database 
 <img src="https://github.com/user-attachments/assets/ab4b0f4f-cd46-4ad2-bbb5-232a5dead02d" width="700" />
 
 ## Steps to implement the Project
