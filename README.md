@@ -4,14 +4,8 @@ This comprehensive Hospital Management System is designed to efficiently manage 
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-
-
+<img src="https://github.com/user-attachments/assets/3ad2e6de-3493-4d37-892f-5943e4a39bb7" width="700" />
+<img src="https://github.com/user-attachments/assets/ab4b0f4f-cd46-4ad2-bbb5-232a5dead02d" width="700" />
 
 ## Steps to implement the Project
 1. Open the IntelliJ Idea > Project Structure > Libraries and upload MySQL connector jar file
